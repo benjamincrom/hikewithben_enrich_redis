@@ -1,0 +1,3 @@
+redis==2.10.5
+selenium==2.50.0
+PyVirtualDisplay==0.1.5
